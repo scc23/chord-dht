@@ -1,2 +1,2 @@
 # chord-dht
-implementation of a basic Chord DHT
+Implementation of a basic Chord DHT
